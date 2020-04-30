@@ -1,6 +1,6 @@
 # DatoCMS example blog using React & GraphQL Request
 
-## Set up your own
+## Set up your ownfff
 
 By clicking the following button you'll set up a project on DatoCMS with the schema and data that you need to run this example.
 
